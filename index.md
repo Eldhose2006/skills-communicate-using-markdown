@@ -4,3 +4,8 @@
 ``` javascript
 var myVar = "Mulearn learning";
 ```
+- [ ] Learn Chemisty
+- [ ] Project
+- [ ] internship
+- [ ] sem exam
+- [ ] internal
